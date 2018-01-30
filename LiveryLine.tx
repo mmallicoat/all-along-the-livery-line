@@ -1,0 +1,559 @@
+\documentclass[12pt]{report}
+
+\usepackage{verbatim}   % useful for program listings
+\usepackage{hyperref}   % use for hypertext links, including those to external documents and URLs
+
+% don't need the following. simply use defaults
+\setlength{\baselineskip}{16.0pt}    % 16 pt usual spacing between lines
+\setlength{\parskip}{3pt plus 2pt}
+\setlength{\parindent}{20pt}
+\setlength{\oddsidemargin}{0.5cm}
+\setlength{\evensidemargin}{0.5cm}
+\setlength{\marginparsep}{0.75cm}
+\setlength{\marginparwidth}{2.5cm}
+\setlength{\marginparpush}{1.0cm}
+\setlength{\textwidth}{150mm}
+
+% Rename References section
+\renewcommand{\bibname}{Original Publications}
+
+% Hide section numbering
+\renewcommand\thesection{}
+
+% above is the preamble
+
+\begin{document}
+
+% Indicate preface of book, to exclude from table of contents
+% \frontmatter
+
+\title{All Along the Livery Line}
+\author{Marshall Mallicoat}
+% \date{December 2016}
+\date{}
+\maketitle
+
+% NOTES %
+\begin{comment}
+
+\end{comment}
+
+\newpage
+\renewcommand{\thepage}{\roman{page}} % Roman numerals for page counter
+\section*{Preface} % asterisk to exclude from table of contents
+\textit{All Along the Livery Line} is a collection of my poems published from 2011 to 2014, on a few websites now defunct and a couple times in print.
+They were written when I was living in Stamford, Connecticut, after I had first moved out to the East Coast.
+I drew much inspiration from the people I met through writing, and those I knew only through the internet.
+\par To everyone who solicited my poems and invited me to read my work, thank you. And thank you to everyone who was kind to me. \\
+\newline
+\textit{
+Marshall Mallicoat \\
+Hartford, Connecticut \\
+November 2016 \\
+}
+
+\section*{About this document}
+These poems were collated and proofed in the fall of 2016.
+The publications where they first appeared are listed in the appendix.
+This document was inexplicably typeset in LaTeX and printed to PDF. \\
+\newline
+This version was last revised on 25 November 2016. 
+
+\newpage
+\tableofcontents
+
+\newpage
+\renewcommand{\thepage}{\arabic{page}} % Arabic numerals for page counter
+\setcounter{page}{1} % Start page number with 1
+% Pop Serial 3
+\section{The turpentine camps of north florida}
+In loud places you can sing to yourself \\
+Alone with your bars \\
+In a nowhere filled with people \\
+I want to be left alone for three days \\
+To do drugs and look at things on the internet \\
+When Im done Ill come back \\
+The drunkest someone has gotten in an applebees \\
+Ive gotten that drunk in my apartment \\
+My spine curved toward the computer \\
+Like a flower toward the sun \\
+The world is big and small \\
+And I can never make someone know me \\
+Tho Ive convinced myself I know myself \\
+My bedroom is a time machine \\
+Moving into the future \\
+One second per second \\
+While everything moves away from everything else \\
+Im really doing this thing \\
+Im tryna love you girl \\
+Sitting on the train or standing on the train \\
+Chinese food to go or chinese food to stay
+
+\newpage
+% Pop Serial 3
+\section{Video game champion}
+Cops are harder to see in the dark \\
+Cops know this \\
+I know this too \\
+I am a sad man \\
+And my sadness spreads like wifi \\
+Aimed at new york city \\
+In beirut the kids do drugs \\
+Get skull tattoos and race to heaven \\
+Million being a thousand thousand \\
+And trillion a million million \\
+Street fashion will never die \\
+Cuz street fashion doesnt care \\
+I will die in an airport \\
+If possible \\
+While in the parking lot \\
+A car tries to get underneath its own shadow \\
+Like cows in a field \\
+All tryna get under the same tree \\
+It's raining in japan \\
+And tomorrow it will rain here \\
+The people of the world will survive \\
+And discover secrets in this earth \\
+And live forever
+
+\newpage
+% Pop Serial 3
+\section{A graffito that says bank of amerika}
+In the mens room every man is me \\
+Im on drugs and everyone else is on drugs too \\
+My backpack feels like someone pressing against my back  \\
+In four hours there will be more hours \\
+Ive seen this \\
+Ive seen flags with ak47s on them \\
+I kneel on the carpet and pray five times \\
+Then I stand up and pray five times \\
+Gods body is frozen somewhere in the ice \\
+Listening to a perfect ipod \\
+Rap will last 50 years \\
+Then repeat the first 50 years in reverse \\
+Like how every v nasty verse is an unrecorded eazy e verse \\
+Like how I always go everywhere twice \\
+The first time to go for the first time \\
+And the second time to go for the first time again \\
+While feeling like Ive been there before
+
+\newpage
+% Shallow
+\section{Poem to white people}
+I watch movies about white people \\
+To learn how to be a white person \\
+I am learning \\
+I assume funny people are happy \\
+Cuz theyre always laughing \\
+I laugh a little too \\
+While my soul pools in my feet \\
+I wanted to be white trash \\
+And tried to dress white trash \\
+I thought they were coming back \\
+To buy up the block \\
+Then leave again \\
+Like life is a slow sickness \\
+That kills as it spreads \\
+Im sayin \\
+White people \\
+Go back to your communities \\
+And teach them what you learn here
+
+\newpage
+% Shallow
+\section{Like a movie you can see anything}
+The crusades except its americans \\
+Drivin suvs into mexico \\
+To feed the hunger \\
+Under an electric sun \\
+I cant accept the world \\
+In such impossible detail \\
+Wish I could be a drunk girl \\
+Dressed up pretty with makeup \\
+Holdin a cellfone \\
+There are so many people I cant talk to \\
+Imma buy xanax off the internet \\
+Imma go to mexico and buy xanax \\
+And walk down streets \\
+Feeling things \\
+Not even seeing the streets
+
+\newpage
+% Shallow
+\section{Ice mines on pluto}
+Ask anyone what an alien is \\
+And they will tell you \\
+What it means to travel a great distance \\
+I can hear my grandparents dyin \\
+Thru my cellfone \\
+Thru my cellfone \\
+Thru my cellfone \\
+Poetry is the poetry of atoms and dust \\
+In the rap videos \\
+They shoot you with invisible guns \\
+Shit dont mean shit \\
+President on tv \\
+Talkin bout four more years \\
+Theres no trash bag big enough \\
+For what I have to throw away \\
+My god \\
+I wish the aliens were real \\
+I wish theyd come \\
+In the dark \\
+And then leave \\
+In the night 
+
+\newpage
+% Everyday Genius
+\section{Poem}
+I'm the best man in this chatroom \\
+I'm the worst minstrel dancing for you \\
+I'm the worst friend for sending you bad links \\
+My best rappers are wack to you--- \\
+My girlfriend on the edge of this time zone \\
+I can feel you in this zip code and in every zip code \\
+I can sing your telephone number \\
+I want to email you and CC the world \\
+\newline
+I'm cleaning up the condo \\
+I'll turn up the air conditioner \\
+I'll do your math homework \\
+I'll lay you out on my queen size bed \\
+I'm so rich I will love you for handshakes, for eyelashes \\
+I will love you for nothing \\
+For love I will love you \\
+Love your thumbnail slideshows \\
+Love your scrolling text messages \\
+Love your mpegs on loop \\
+\newline
+I'm out in god's country \\
+Gathering pop tabs on a string, on a great necklace \\
+To gift to my wife on our wedding night \\
+So she might be proud, and you are \\
+And the sky is your color \\
+And the shampoo smells like your hair--- \\
+This is my email to make you love me \\
+At least when drunk and on drugs and asleep and offline \\
+Love me like I love your green fingernails \\
+Love me like I love the cigarettes on your lips and the hairs on your ass \\
+Love me like I love the shoes on your feet \\
+Love me like I love my trailer park queen
+
+% Horseghost
+\newpage
+\section{The radiators come on at night and wake me up.}
+Two people together and god is there. Im all alone and god is gone. Off betting on natures science. Sneaking into hotel rooms to hide bibles. They were well hid. And what was written in there also hidden. \\
+\newline
+There are two worlds running alongside. One a little faster than the other. Like trains on tracks. The seats in trains like pews. All facing forward. Toward the altar. And on the altar nothing. \\
+\newline
+The other americans come speaking a moon language. To the moon and on a monday. They come and they go. Trafficking memories. Thru customs and thru sheets of glass. Thru invisible sheets of glass in the sky. \\
+\newline
+Let them drown before the sea. And throw the bodies into a sea of insects. Let god be Christ. And let Christ be the Lord. Let the shadows reach west and touch the mountains. Let each new blog bury the last. Let the atoms of air be numbered. Like each coat in the coatroom is numbered. \\
+\newline
+Stand on a plastic box. Stand on a wooden box. Stand on an aluminum box. And you see. And you see. And you see. \\
+\newline
+The people on the internet are not me. But they could be. Uncle Tom, Brother Jed, Saint Anthony. Reverend Run, Doctor Faustus, Professor Chomsky. Chairman Mao, King Cotton, President Aristide. Mister Carter, Citizen Kane, Master P.
+
+\newpage
+% Pop Serial 5
+\section{We're Bowling with Bumpers Now}
+I know morale is low. \\
+The ice shifts inside \\
+the ice machine uneasy. \\
+Where we can't get clean \\
+we paint over the dirt. \\
+When the buildings are finished \\
+and the hospital gowns are lifted \\
+the wrong songbirds will take roost: \\
+the killdeer and whippoorwill will talk shit. \\
+But it's just a little hazing \\
+from friends you haven't met yet. \\
+When the odometer rolls over \\
+we'll all clap together and applaud each other \\
+to have seen such a thing just happen. \\
+There's a corset that holds the mountain up. \\
+There's a belt that girds the world. \\
+All exits have been clearly marked \\
+for your convenience and safety.
+
+\newpage
+% Pop Serial 5
+\section{A Bouncy Castle Lifted}
+Everyone's alone on their fone \\
+busy unfriending their friends, \\
+sitting at work pretending to work \\
+shoveling shit to the shit eaters. \\
+At this bad banquet \\
+you gotta bus your own table. \\
+In the crowded movie theater \\
+you gotta touch yourself. \\
+We come in thru the out door. \\
+What's done is undone, like shoestrings, like oysters, \\
+all the French curls and crazy circles \\
+or the patterns of a fancy dancer. \\
+It's a fuck-all wonder. \\
+It's a revolving door you're stuck inside, \\
+wearing a coat that only makes you colder \\
+and pulling it tighter \\
+against the air-conditioned air.
+
+\newpage
+% Pop Serial 5
+\section{Horse Advice}
+Don't bet your house on a horse \\
+You can't live in a horse \\
+You can't even eat a horse \\
+Or you wouldn't want to
+
+% Aclypse
+\newpage
+\section{Black Ice}
+In the late 20s of your century \\
+in your painted room painted red \\
+on your leaden mornings of done lovers \\
+when the earth curves away from you, \\
+you might find you've gone defunct \\
+like spoiled milk in the guest house \\
+like a small patch of black ice \\
+left alone and not bothering anybody. \\
+You're cut with a knife so dull \\
+the wound doesn't even deign to bleed. \\
+Your teeth still hurt, but only faintly \\
+like they were someone else's teeth \\
+and that man was walking away \\
+concerned only with the stone in his shoe.
+
+% Aclypse
+\newpage
+\section{For the Santa Barbara Estates Trailer Community of Olathe, Kan.}
+The plain fact is there \textit{are} no Super Walmart's--- \\
+only Supercenter's where you loiter, \\
+where there is no center to be found \\
+unless it rests like jewels on her navel. \\
+She was blonde like a Fox News anchor \\
+and made love like an octopus plug	 \\
+with a Rorschach on her lower back \\
+above the hem of her khaki pants. \\
+\newline
+The motto of Idaho is \textit{Esto Perpetua,} \\
+which means \textit{it's forever,} which it is--- \\
+maintained by our selfless Aryan brothers \\
+insurgent in the foothills of the Rockies. \\
+And there's a handsome klansman here right now, \\
+with toothsome smile, eager to guide our boat tour \\
+thru the putrid Florida \textit{everglades}--- \\
+a nice word for an endless swamp.
+
+% Aclypse
+\newpage
+\section{Memorial Day}
+We're once-, twice-, three-time losers: \\
+the Sooners, Hoosiers, and Corn Huskers--- \\
+all the fishes: the Bettas and Tetras,		 \\
+the scumsuckers who chew the glass, \\
+the anchovies and sardines alone in their tins, \\
+the feeder fish, the minnows---born to die. \\
+The bugler plays taps badly \\
+and the flag's gone orange and gray. \\
+As the halyards chime their complaint, \\
+let's try to remember Ruby Ridge \\
+and the little 9/11 of 2000 and 10. \\
+Let's salute Dale Earnhardt Senior \\
+for everything he did for a sport we love--- \\
+Jim Beam, Jack Daniel, and Johnnie Walker--- \\
+Hank Williams I, II, and III--- \\
+Kiss Army and all the No Limit Soldiers. \\
+Let's sleep in on the long weekend \\
+and not bother with the flowers.
+
+\newpage
+% Western Beefs
+\section{Mayflies in June}
+The liquor aisle stays lit until 11pm \\
+and seven on Sundays. \\
+I drink whichever beer is cheapest \\
+so to let the market judge \\
+what I have no business judging. \\
+\newline
+At Wed. church you can wear jeans \\
+and sometimes it ends early. \\
+It's there in the parking lot you witness \\
+the first of the floodlights come on \\
+and the mayflies queue up for communion.
+
+\newpage
+% Western Beefs
+\section{Oh Little Quick Forgetter Pt. 1}
+The phone numbers wear out. \\
+Your friends don't live here anymore. \\
+You showed up for the party early and I asked you to leave. \\
+I said \textit{homie, go home.} \\
+Your lips are drawn wrong. \\
+Your teeth are set backward. \\
+You got high off fake weed. \\
+You caught meso from one summer doing insulation. \\
+You could have done a tour in Iraq and been back already. \\
+You're the one who buried his gold and thought he was golden.
+
+\newpage
+% Western Beefs
+\section{Oh Little Quick Forgetter Pt. 2}
+Who is you? \\
+You who would withhold dap when asked? \\
+You who split cats and tie down dogs? \\
+You who stand on the escalator and idle in the drive way, \\
+your car in ten thousand pieces, \\
+arranged in one of many possible ways? \\
+It's no good what you might could, or can done, or been had. \\
+Oh little quick forgetter---did you divide rightly? \\
+Have you never seen the sea? \\
+Are we to believe that \textit{these are trees?}
+
+\newpage
+% Western Beefs
+\section{Oh Little Quick Forgetter Pt. 3}
+In painful shoes, you'll stand, until you're fit to sit. \\
+As your leg learns its limp, and your back takes its crook. \\
+You weren't well liked, just familiar. \\
+And we used you for your pool table. \\
+You were named a supernumerary. \\
+You came back home, and the lights was on. \\
+The oven was on, and all of the faucets was on. \\
+And in the garage the car was running. \\
+And when you stood in the Dutch door, \\
+we closed the other half.
+
+\newpage
+% Western Beefs
+\section{New Haven}
+Your breath appears in winter, like a new pope \\
+and the snow smells like your smoke. \\
+You stutter like Roman numerals: I, I, I \\
+and I touch you with gloves on. \\
+We kiss like bridges half-­finished \\
+in your parent's house on the sound. \\
+The mirror is a perversion of the room \\
+and in this perversion is your face, \\
+your hair arranged in folios \\
+with the pages yet uncut. \\
+Your body is a grand concourse--- \\
+not just a terminus, but a place to depart from. \\
+I'm drinking from the faucet of your mouth \\
+not worried who has to drink after.
+
+\newpage
+% Western Beefs
+\section{Eulogy}
+Canadian geese crossing the street \\
+are ready to die for their country. \\
+Why not you? Are you too good? \\
+Do you bloom perennial? \\
+Or once then never again? \\
+The soil is soaked thru with malt liquor. \\
+Something smells sweet in the greedy weeds. \\
+Our reparations are pending and hang \\
+like a branch of rotten fruit. \\
+It's pythons in Florida that will redeem us. \\
+The kudzu is busy at our retribution. \\
+The nightcrawlers are out in the morning \\
+and they're embarrassed, and you're ashamed, \\
+as we lay one of our alumni to ripen, \\
+to dare reckon of underground trees.
+
+\newpage
+% Western Beefs
+\section{The Sun Do Move and the Earth Am Square}
+\textit{after the sermon by Rev. John Jasper} \\
+\newline
+In the flint hills, you cut your feet \\
+where the fences are fallen ladders \\
+and the power lines come together \\
+at right angles, like corners--- \\
+where the old internet still runs \\
+blown on the wind \\
+carried on strings drawn by pigeons. \\
+\newline
+The earth was taught patience (and waits). \\
+The stars learned loneliness (and don't they look lonely?). \\
+The day comes when the sun \\
+will be called from his racetrack \\
+and his light squinched out forever--- \\
+\newline
+But what do I care about the sun? \\
+I ain't been appointed to run the sun. \\
+We are moon men, have always been moon men: \\
+moon men and moon women. \\
+And tonight is our favorite moon.
+
+\newpage
+% Western Beefs
+\section{For My Then-Girlfriend}
+My little phone holds your face \\
+in the distance where the birds \\
+are just plucked eyelashes, \\
+maybe an unclosed parenthesis. \\
+\newline
+From an airplane, we see the landscape \\
+as a modest array of paint swatches. \\
+The people become pointillistic, \\	% fixed usage here; added -ic
+spittle from the idiot maw of creation, \\
+a bit of food you lost in your clothes and wanted to eat. \\
+\newline
+If there aren't enough blueberries, and they're black--- \\
+If the stars are asterisks with footnotes to follow--- \\
+If I'm allergic to your cats and ugly with freckles--- \\
+If I touch your collarbone and break its wings--- \\
+It's just as well. \\
+The pictures on my phone are yours. \\
+With obliviated eyes I've seen us together: \\
+(me) laid out in a deleterious sun \\
+(you) cutting your nails, and letting them fly.
+
+\newpage
+\nocite{*}
+\begin{thebibliography}{}
+
+\bibitem{Pop Serial 3}
+``The turpentine camps of north florida'',
+``Video game champion'',
+``A graffito that says bank of amerika'':
+\textsl{Pop Serial 3}, edited by Stephen Tully Dierks, 2012, \url{popserial.net}.
+
+\bibitem{shallow}
+``Poem to white people'',
+``Like a movie you can see anything'',
+``Ice mines on pluto'':
+\textsl{shallow}, edited by Zachary Whalen, 2011, \\ \url{letscallourbandtheyeahyeahyeahs.blogspot.com}.
+
+\bibitem{Everyday Genius}
+``Poem'':
+\textsl{Everyday Genius}, edited by Stephen Tully Dierks, February 2013, \url{everyday-genius.com}.
+
+\bibitem{horse ghost}
+``The radiators come on at night and wake me up'':
+\textsl{horse ghost (volume one)}, edited by Matthew Donahoo, 2012, \url{www.horseghost.info}.
+
+\bibitem{Pop Serial 5}
+``We're Bowling with Bumpers Now'',
+``A Bouncy Castle Lifted'',
+``Horse Advice'':
+\textsl{Pop Serial 5}, edited by Stephen Tully Dierks, 2014, \url{popserial.net}.
+
+\bibitem{Aclypse}
+``Black Ice'',
+``For the Santa Barbara Estates Trailer Community of Olathe, Kan.'',
+``Memorial Day'':
+\textsl{Aclypse}, edited by Cody Troyan, unpublished, \url{aclypse.com}.
+
+\bibitem{Western Beefs}
+``Mayflies in June'',
+``Oh Little Quick Forgetter Pt. 1-3'',
+``New Haven'',
+``Eulogy'' (appearing as ``On the Occasion of a Friend Falling off the Wagon''),
+``The Sun Do Move and the Earth Am Square'',
+``For My Then-Girlfriend'':
+\textsl{Western Beefs of North America}, edited by Willis Plummer, 2014, \url{westernbeefs.com}.
+
+\end{thebibliography}
+
+\end{document}
