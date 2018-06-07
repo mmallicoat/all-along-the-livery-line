@@ -29,7 +29,6 @@
 
 \title{All Along the Livery Line}
 \author{Marshall Mallicoat}
-% \date{December 2016}
 \date{}
 \maketitle
 
@@ -53,11 +52,11 @@ November 2016 \\
 }
 
 \section*{About this document}
-These poems were collated and proofed in the fall of 2016.
+These poems were collated, proofed, and lightly edited in the fall of 2016.
 The publications where they first appeared are listed in the appendix.
 This document was inexplicably typeset in LaTeX and printed to PDF. \\
 \newline
-This version was last revised on 25 November 2016. 
+This version was last modified on 7 June 2018.
 
 \newpage
 \tableofcontents
@@ -510,79 +509,18 @@ With obliviated eyes I've seen us together: \\
 (you) cutting your nails, and letting them fly.
 
 \newpage
-% Submitted to Spencer for "Praris Review"
-\section{Stagehand}
-You fill my mutton eyes with your leg of lamb \\
-and I reach down in your grease trap \\
-to pluck the puck of gristle. \\
-\newline
-I lean forward to fog your bank window \\
-and trace out hearts on the frosted glass \\
-in our private stenography. \\
-\newline
-If we cross each other in Biloxi \\
-allow me to show you my southern strategy--- \\
-let me languish in your antebellum. \\
-\newline
-And if I trip into your orchestra pit \\
-I hope my fall is broken by cellos \\
-and those cellos broken irreparably.
-
-\newpage
-% Submitted to Spencer for "Praris Review"
-\section{Dollar Menu}
-In interviews for jobs you've already lost \\
-they ask you for your greatest weakness \\
-to better and more fully destroy you. \\
-From the hawk being a hawk \\
-we also know a flea a flea \\
-and you are a dog--- \\
-tied to a fence, barking at tall grass. \\
-\newline
-These are thoughts that might come to you \\
-in the shower, long after you are clean \\
-but they are unfit to speak on \\
-even in the armor of sleep \\
-and should be left to collect, like hair in the drain \\
-until they stick in your throat.
-
-\newpage
-% Submitted to Spencer for "Praris Review"
-\section{Ours is another kind of love}
-Now that my bed is filled with lovers \\
-I'll sleep on the floor in the other room, \\
-with towels for curtains and blankets for robes \\
-and dirty clothes hanging in the kitchen. \\
-\newline
-The vomit is warm then cool on the carpet \\
-and becomes the new stink of our home. \\
-I can kick the shirt off my shoes and do, \\
-then retrieve my ashtray from the dishwasher. \\
-\newline
-The house is a lung, exhaling in the night. \\
-The river is a jargon of the reeds, still \\
-spoken by the wise mosquitoes \\
-who come to borrow your blood \\
-and leave you poisons to visit death. \\
-\newline
-The sun deserves a fandom, and has one \\
-in the hornets caught between window panes. \\
-In the morning, the glass becomes crystal \\
-and the sky and uncut panel of amber.
-
-\newpage
 \nocite{*}
 \begin{thebibliography}{}
 
 \bibitem{Pop Serial 3}
-``The turpentine camps of north florida'',
-``Video game champion'',
+``The turpentine camps of north florida,''
+``Video game champion,''
 ``A graffito that says bank of amerika'':
 \textsl{Pop Serial 3}, edited by Stephen Tully Dierks, 2012, \url{popserial.net}.
 
 \bibitem{shallow}
-``Poem to white people'',
-``Like a movie you can see anything'',
+``Poem to white people,''
+``Like a movie you can see anything,''
 ``Ice mines on pluto'':
 \textsl{shallow}, edited by Zachary Whalen, 2011, \\ \url{letscallourbandtheyeahyeahyeahs.blogspot.com}.
 
@@ -595,31 +533,25 @@ and the sky and uncut panel of amber.
 \textsl{horse ghost (volume one)}, edited by Matthew Donahoo, 2012, \url{www.horseghost.info}.
 
 \bibitem{Pop Serial 5}
-``We're Bowling with Bumpers Now'',
-``A Bouncy Castle Lifted'',
+``We're Bowling with Bumpers Now,''
+``A Bouncy Castle Lifted,''
 ``Horse Advice'':
 \textsl{Pop Serial 5}, edited by Stephen Tully Dierks, 2014, \url{popserial.net}.
 
 \bibitem{Aclypse}
-``Black Ice'',
-``For the Santa Barbara Estates Trailer Community of Olathe, Kan.'',
+``Black Ice,''
+``For the Santa Barbara Estates Trailer Community of Olathe, Kan.,''
 ``Memorial Day'':
 \textsl{Aclypse}, edited by Cody Troyan, unpublished, \url{aclypse.com}.
 
 \bibitem{Western Beefs}
-``Mayflies in June'',
-``Oh Little Quick Forgetter Pt. 1-3'',
-``New Haven'',
+``Mayflies in June,''
+``Oh Little Quick Forgetter Pt. 1-3,''
+``New Haven,''
 ``Eulogy'' (appearing as ``On the Occasion of a Friend Falling off the Wagon''),
-``The Sun Do Move and the Earth Am Square'',
+``The Sun Do Move and the Earth Am Square,''
 ``For My Then-Girlfriend'':
 \textsl{Western Beefs of North America}, edited by Willis Plummer, 2014, \url{westernbeefs.com}.
-
-\bibitem{Praris Review}
-``Stagehand'',
-``Dollar Menu'',
-``Ours is another kind of love'':
-\textsl{Praris Review}, edited by Spencer Madsen, unpublished.
 
 \end{thebibliography}
 
