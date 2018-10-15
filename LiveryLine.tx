@@ -40,7 +40,7 @@
 \newpage
 \renewcommand{\thepage}{\roman{page}} % Roman numerals for page counter
 \section*{Preface} % asterisk to exclude from table of contents
-\textit{All Along the Livery Line} is a collection of my poems published from 2011 to 2014, on a few websites now defunct and a couple times in print.
+\textit{All Along the Livery Line} is a collection of my poems published from 2012 to 2014, on a few websites now defunct and a couple times in print.
 They were written when I was living in Stamford, Connecticut, after I had first moved out to the East Coast.
 I drew much inspiration from the people I met through writing, and those I knew only through the internet.
 \par To everyone who solicited my poems and invited me to read my work, thank you. And thank you to everyone who was kind to me. \\
@@ -56,7 +56,7 @@ These poems were collated, proofed, and lightly edited in the fall of 2016.
 The publications where they first appeared are listed in the appendix.
 This document was inexplicably typeset in LaTeX and printed to PDF. \\
 \newline
-This version was last modified on 7 June 2018.
+This version was last modified on 7 September 2018.
 
 \newpage
 \tableofcontents
@@ -135,72 +135,6 @@ Like how I always go everywhere twice \\
 The first time to go for the first time \\
 And the second time to go for the first time again \\
 While feeling like Ive been there before
-
-\newpage
-% Shallow
-\section{Poem to white people}
-I watch movies about white people \\
-To learn how to be a white person \\
-I am learning \\
-I assume funny people are happy \\
-Cuz theyre always laughing \\
-I laugh a little too \\
-While my soul pools in my feet \\
-I wanted to be white trash \\
-And tried to dress white trash \\
-I thought they were coming back \\
-To buy up the block \\
-Then leave again \\
-Like life is a slow sickness \\
-That kills as it spreads \\
-Im sayin \\
-White people \\
-Go back to your communities \\
-And teach them what you learn here
-
-\newpage
-% Shallow
-\section{Like a movie you can see anything}
-The crusades except its americans \\
-Drivin suvs into mexico \\
-To feed the hunger \\
-Under an electric sun \\
-I cant accept the world \\
-In such impossible detail \\
-Wish I could be a drunk girl \\
-Dressed up pretty with makeup \\
-Holdin a cellfone \\
-There are so many people I cant talk to \\
-Imma buy xanax off the internet \\
-Imma go to mexico and buy xanax \\
-And walk down streets \\
-Feeling things \\
-Not even seeing the streets
-
-\newpage
-% Shallow
-\section{Ice mines on pluto}
-Ask anyone what an alien is \\
-And they will tell you \\
-What it means to travel a great distance \\
-I can hear my grandparents dyin \\
-Thru my cellfone \\
-Thru my cellfone \\
-Thru my cellfone \\
-Poetry is the poetry of atoms and dust \\
-In the rap videos \\
-They shoot you with invisible guns \\
-Shit dont mean shit \\
-President on tv \\
-Talkin bout four more years \\
-Theres no trash bag big enough \\
-For what I have to throw away \\
-My god \\
-I wish the aliens were real \\
-I wish theyd come \\
-In the dark \\
-And then leave \\
-In the night 
 
 \newpage
 % Everyday Genius
@@ -516,13 +450,7 @@ With obliviated eyes I've seen us together: \\
 ``The turpentine camps of north florida,''
 ``Video game champion,''
 ``A graffito that says bank of amerika'':
-\textsl{Pop Serial 3}, edited by Stephen Tully Dierks, 2012, \url{popserial.net}.
-
-\bibitem{shallow}
-``Poem to white people,''
-``Like a movie you can see anything,''
-``Ice mines on pluto'':
-\textsl{shallow}, edited by Zachary Whalen, 2011, \\ \url{letscallourbandtheyeahyeahyeahs.blogspot.com}.
+\textsl{Pop Serial}, issue 3, edited by Stephen Tully Dierks, 2012, \url{popserial.net}.
 
 \bibitem{Everyday Genius}
 ``Poem'':
@@ -530,13 +458,13 @@ With obliviated eyes I've seen us together: \\
 
 \bibitem{horse ghost}
 ``The radiators come on at night and wake me up'':
-\textsl{horse ghost (volume one)}, edited by Matthew Donahoo, 2012, \url{www.horseghost.info}.
+\textsl{horse ghost volume one}, edited by Matthew Donahoo, 2012, \url{www.horseghost.info}.
 
 \bibitem{Pop Serial 5}
 ``We're Bowling with Bumpers Now,''
 ``A Bouncy Castle Lifted,''
 ``Horse Advice'':
-\textsl{Pop Serial 5}, edited by Stephen Tully Dierks, 2014, \url{popserial.net}.
+\textsl{Pop Serial}, issue 5, edited by Stephen Tully Dierks, 2014, \url{popserial.net}.
 
 \bibitem{Aclypse}
 ``Black Ice,''
